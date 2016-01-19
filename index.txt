@@ -1,0 +1,9 @@
+For >> Mevan 
+1>> https://maven.apache.org/download.cgi >> to download  & for JDK >> http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+2>> Unzip downloaded file >> Copy Unzip at root Name folder Maven3.3.3 ( C:\meaven3.3.3 )
+3 >> path setting 
+    System >> Advanced System settings >> Click << Enviroment Variable>> Click << Path>> ........>> Paste >>> C:\maven3.3.3\bin
+4 >> System >> Advanced System settings >> Click << Enviroment Variable>> Click << New-- User Variable for ..>> Type JAVA_HOME  at Variable Name>> Paste >>> C:\Program Files\Java\jdk1.8.0_45  at Variable Value
+5>> OK >>ok >> OK
+Test >> mvn -ver 
+If it show version >> now Ok
