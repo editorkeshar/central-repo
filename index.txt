@@ -4,6 +4,6 @@ For >> Mevan
 3 >> path setting 
     System >> Advanced System settings >> Click << Enviroment Variable>> Click << Path>> ........>> Paste >>> C:\maven3.3.3\bin
 4 >> System >> Advanced System settings >> Click << Enviroment Variable>> Click << New-- User Variable for ..>> Type JAVA_HOME  at Variable Name>> Paste >>> C:\Program Files\Java\jdk1.8.0_45  at Variable Value
-5>> OK >>ok >> OK
+5>> OK >>ok >> OK >>5 time
 Test >> mvn -ver 
 If it show version >> now Ok
